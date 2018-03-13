@@ -1,0 +1,411 @@
+[33mcommit b67a52ca76c920996f3c8adeb3f16fcd42f8497d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mdev[m[33m)[m
+Author: Akash Tiwari <akashtiw86@gmail.com>
+Date:   Tue Mar 13 01:53:36 2018 +0530
+
+    First commit in Local
+
+[33mcommit 9b7e883cf1ac3215301351ed3c759be72dd679f0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Jan 28 12:24:25 2018 +0530
+
+    updated for version info
+
+[33mcommit be2ff5b672feccb8a9f90077bdf8be203a78f20f[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Jan 28 12:23:24 2018 +0530
+
+    updated for version
+
+[33mcommit f3a31bfa274e950e6004285cc8251d650a94d671[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Jan 28 12:19:19 2018 +0530
+
+    updated for version number
+
+[33mcommit 4b2ee1a2cdda4929fbe5cd50a9d286901b867cc1[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 27 13:23:57 2018 +0530
+
+    updated Jenkinsfile
+
+[33mcommit de76f220ba4e29399e58fc435f73e9fe717795fd[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Wed Jan 24 14:48:04 2018 +0530
+
+    POM.xml upadted for artifact file name
+
+[33mcommit 47ec580c35d7cdcfe273cf0f4a514ebf8af9d89d[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Jan 7 08:58:18 2018 +0530
+
+    POM.xml
+
+[33mcommit ddd36b55d2d1021e8f0d63deb5fb9b1b2eca207c[m
+Merge: 0b8c36d 7f3219e
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 14:10:23 2018 +0530
+
+    pom file updated
+
+[33mcommit 7f3219ed39ceb9083f965c3b7be23297d58fe9f3[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 13:40:01 2018 +0530
+
+    POM.xml updated for dependency
+
+[33mcommit 0b8c36d91556e4c8690e51037d4cafa0406b1e26[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 13:32:47 2018 +0530
+
+    pom file updated
+
+[33mcommit e025d28047460c4b8883c6bcf27777d661a95080[m
+Merge: c16c470 0932a05
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 12:48:04 2018 +0530
+
+    Jenkinsfile updated
+
+[33mcommit 0932a05a275a11d8092fe38c2eb7b2a3ec7422fe[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 12:30:28 2018 +0530
+
+    jenkinsfile updated
+
+[33mcommit c16c470652018afe18596533b6a6580925720b75[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 6 10:20:35 2018 +0530
+
+    home page updated
+
+[33mcommit ada5ba4d0a21e65439f453f6c6f38b16606fa236[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Oct 15 06:43:02 2017 +0000
+
+    Jenkinsfile updated for deployment statement
+
+[33mcommit 8359d6ddeac1a5ddedf8200d36190f64141583f7[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Oct 15 06:16:39 2017 +0000
+
+    Jenkinsfile updated for deployment stage
+
+[33mcommit a3973fa4d9caf965f9b896b27a0bf528aa5424fd[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Sep 16 14:21:25 2017 +0000
+
+    Jenkinsfile updated for node statement
+
+[33mcommit b82f2e4e918454360120c9b6186d626db77ac80e[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Sep 9 15:58:35 2017 +0000
+
+    jenkinsfile updated
+
+[33mcommit 034ae15f51917c90b5a6926a8afcd51c1c9e1d1d[m
+Merge: c1e7c85 5bbbd52
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 19:13:05 2017 +0000
+
+    conflict resolved by updated .jsp file
+
+[33mcommit 5bbbd523bd0f36f89f41a78d911a5162c0381b4c[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 19:11:14 2017 +0000
+
+    form fields updated
+
+[33mcommit c1e7c8547982df598da38cd4a7d9f3309f617e98[m
+Merge: 92d0857 ba001b7
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 19:08:37 2017 +0000
+
+    resolved conflicting text manually
+
+[33mcommit 92d0857fb29e5bbf53d8c0d29816b3d776be95b1[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 18:59:05 2017 +0000
+
+    .jsp file updated
+
+[33mcommit d02efdcc42dd3f14d8661a30ac5305992b01fa2f[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 18:54:48 2017 +0000
+
+    removed unwated file. scourse code added to repo
+
+[33mcommit ba001b75d89c8f9beebbe609e07f8cd1c8367970[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 06:36:18 2017 +0000
+
+    form fieldds updated
+
+[33mcommit fc418a529a8e0bed5533613ad9b59ed06c6493e3[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Mon Sep 4 06:02:46 2017 +0000
+
+    sample files deleted and added with Java project files
+
+[33mcommit 66b9b9ed6db8ca3b8b8ff3b82bd3b36e3320a955[m
+Merge: 72954d0 3eea1ac
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 14:47:28 2017 +0000
+
+    Merge branch 'master' of https://github.com/ganeshhp/helloworldweb into dev
+
+[33mcommit 72954d03a8a5ad382d44a6a1677d61af20da7f27[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 14:44:33 2017 +0000
+
+    file removed from project folder
+
+[33mcommit 234dd5813dc994c7a995ed5e47ebbf0e0ccc89da[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 13:55:17 2017 +0000
+
+    file1 updated
+
+[33mcommit c48be6321840b359066b847860ec024838129c54[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 13:18:14 2017 +0000
+
+    new file added
+
+[33mcommit 94a9e6c23d2729a43bf758f301a40359570ecbd2[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 12:34:49 2017 +0000
+
+    new folder added
+
+[33mcommit 1494cd2544693eebc64b0abf48e7f3854b5e0034[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 12:34:09 2017 +0000
+
+    project folder cleaned
+
+[33mcommit dd9cbf307290cb0169a8c33ed83ced8b10aa4cda[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 11:37:28 2017 +0000
+
+    added README.md
+
+[33mcommit f8abbe18816c6f0908eef69db9cb218403813857[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 10:41:13 2017 +0000
+
+    file 2 updated
+
+[33mcommit 19abdc86081e7453bd615b4b881cd874364dbee7[m
+Author: ganesh <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Sep 3 10:34:07 2017 +0000
+
+    file1 updated
+
+[33mcommit a7776c46e3367fd4fd1aa9c2c4117a88ac89b1d5[m
+Author: root <root@gitserver>
+Date:   Sun Sep 3 10:23:03 2017 +0000
+
+    first commit
+
+[33mcommit 3eea1ac94210e9262f5b70daf46abc4f6ee750ff[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Wed Aug 2 10:19:00 2017 +0530
+
+    jenkinsfile updated with correct syntx
+
+[33mcommit 366a1cef794eb1a14c7f2b99316bc524a0e1b883[m
+Merge: aa41d97 27d7407
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Wed Aug 2 10:14:08 2017 +0530
+
+    jenkinsfile updated
+
+[33mcommit aa41d97a3d47119c76d194e4437f39cfadda5f03[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Wed Aug 2 10:10:42 2017 +0530
+
+    jenkinsfile updated for demo
+
+[33mcommit 27d740726574899beded4df0b0733531fba7d9a0[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Wed Aug 2 00:21:55 2017 +0530
+
+    updated Jenkinsfile
+
+[33mcommit fc43b9c9ee46c3e7fac6e2335bc5f47c6513582d[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 23:44:14 2017 +0530
+
+    updatde jenkinsfile
+
+[33mcommit 14181cc38a3dfba9c8aac8096802f58196a19485[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 23:26:34 2017 +0530
+
+    jenkinsfile updated with syntax
+
+[33mcommit c7f8631c4d8d67b75adfa5a1555380099471b758[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 18:14:32 2017 +0530
+
+    updated POM
+
+[33mcommit 14b0d3b259bb9783960f105d28baa4742e4262c4[m
+Merge: ef2e957 1092b6b
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 18:13:08 2017 +0530
+
+    updated POM and jenkinsfile
+
+[33mcommit ef2e957d2e14f1c48d7de82b15b2575d3db4c70c[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 18:10:19 2017 +0530
+
+    updated file from latest build
+
+[33mcommit 1092b6b937c18bff9c8fdd95048b8964c8f9ddfa[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Aug 1 13:30:15 2017 +0530
+
+    update to POM.XML
+
+[33mcommit 5aeedbb1f39884bb2c9e2b0ed1f84a36b059d960[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Jul 18 11:56:19 2017 +0530
+
+    updated POM.xml
+
+[33mcommit a6ed032b9b5e555f65ae68e51724e458a4376031[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Jul 18 11:36:11 2017 +0530
+
+    pom.xml updated for version number
+
+[33mcommit 61400f9245c60b6f4e35ef93b863ccfcb623d060[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun May 7 19:14:45 2017 +0530
+
+    jenkinsfile updated with pipeline code
+
+[33mcommit a0876e5ab97c4fda6cd5e8a232205c630be17940[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Fri May 5 18:04:03 2017 +0530
+
+    commited all changes
+
+[33mcommit fc829c74955ffc5faf7b64dd128a247467d33e69[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Apr 29 19:24:04 2017 +0530
+
+    file updated with latest changes
+
+[33mcommit 8c87ad98d77711136fdb0f4e1c542435786c9f96[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Apr 27 18:38:46 2017 +0530
+
+    added Jenkinsfile to the code
+
+[33mcommit 1a783cb711ed6d0d449f2381d91be7d616c3fec8[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Apr 27 18:28:45 2017 +0530
+
+    index.jsp updated with a line
+
+[33mcommit 38e0f487bdd6773c14e4aa633c0661f543ee2f7a[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Apr 27 18:10:46 2017 +0530
+
+    index.html file updated
+
+[33mcommit f97ec750d5025f90fcdd555156b241b4c70662f6[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Fri Apr 21 18:28:36 2017 +0530
+
+    updated webpage
+
+[33mcommit b78c8ad27ecc41ffb2af3340e681fe9da930dae3[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sun Apr 16 13:27:55 2017 +0530
+
+    updated file
+
+[33mcommit b515672d69d02ad96f10a23e0a5ddbcd636fb51c[m
+Merge: 9fe72ea 66f55c1
+Author: root <root@jenkins>
+Date:   Sat Feb 11 04:03:03 2017 +0000
+
+    updated with changes for conflict resolution
+
+[33mcommit 9fe72ea0403f600b878e8045904ec00a3b5d3a5a[m
+Author: root <root@jenkins>
+Date:   Sat Feb 11 03:56:33 2017 +0000
+
+    form updated with changes
+
+[33mcommit 66f55c1f7ce8fbdeae7fb5e74a227254f7305496[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Feb 11 09:09:49 2017 +0530
+
+    made some changes to form
+
+[33mcommit 35813c0b3be52fe2fc227ab012355f74e37a5956[m
+Merge: b7cf544 6f83013
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Fri Feb 10 15:11:21 2017 +0530
+
+    file updated to resolve conflict
+
+[33mcommit b7cf544fb2d4591921ccedefdbf0e0ee9abf3922[m
+Merge: f173442 0df35c8
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Fri Feb 10 15:09:41 2017 +0530
+
+    file updated to resolve conflict
+
+[33mcommit 6f8301360108198e857e15be5d0c137cf2720114[m
+Author: root <root@jenkins>
+Date:   Fri Feb 10 09:35:24 2017 +0000
+
+    file updated to resolve conflict
+
+[33mcommit 0df35c8827c64770297d2291efb9d42984402e82[m
+Author: root <root@jenkins>
+Date:   Fri Feb 10 09:29:26 2017 +0000
+
+    form updated by root user
+
+[33mcommit f173442bf0b23d1e5922708f3c75aacbc02247ec[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Fri Feb 10 10:23:09 2017 +0530
+
+    form updated with department field
+
+[33mcommit 9a0ae30b68e34b0d73fecf0d7a1daebd884e6282[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Tue Jan 31 19:07:54 2017 +0530
+
+    added jenkins pipeline file
+
+[33mcommit 5e16ce15f29bfbb87216b406917c2c39289cce3d[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Sat Jan 21 10:36:55 2017 +0530
+
+    one more change
+
+[33mcommit f9adc8768595cc0a37da9bb976b0617fa9864b08[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Jan 19 15:28:16 2017 +0530
+
+    one more change
+
+[33mcommit e8ff7d7fc75c0091d903c60f751ceb967375707e[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Jan 19 15:17:26 2017 +0530
+
+    new change
+
+[33mcommit 0304178a9512777fe5195931bfbc4eae51d7cb57[m
+Author: ganeshhp <ganesh.palnitkar@yahoo.co.in>
+Date:   Thu Jan 19 12:09:32 2017 +0530
+
+    initial commit
